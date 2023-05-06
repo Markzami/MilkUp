@@ -20,7 +20,7 @@
        Intensity = 100--%
   },
    Exclusives = {
-       Dualhook = true,
+       Dualhook = false,
        Intensity = 100--%
   },
    Events = {
@@ -28,16 +28,16 @@
        Intensity = 100--%
   },
    Secrets = {
-       Dualhook = true,
+       Dualhook = false,
        Intensity = 100--%
    },
    HC_DM_Mythics = {
-       Dualhook = true,
+       Dualhook = false,
        Intensity = 100--%
    },
    Gems = {
        Dualhook = true,
-       Intensity = 100--%
+       Intensity = 50--%
   }
 }
     
